@@ -1,0 +1,1024 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 3
+#GENRE Super Bombeat
+#TITLE おどれフルファイアー -完全勝利-
+#ARTIST kagerow
+#BPM 180
+#PLAYLEVEL 99
+#RANK 3
+#STAGEFILE title.bmp
+
+#WAV01 bass_001.ogg
+#WAV02 bass_002.ogg
+#WAV03 bass_003.ogg
+#WAV04 bass_004.ogg
+#WAV05 bass_005.ogg
+#WAV06 bass_006.ogg
+#WAV07 bass_007.ogg
+#WAV08 bass_008.ogg
+#WAV09 bass_009.ogg
+#WAV0A bass_010.ogg
+#WAV0B bass_011.ogg
+#WAV0C bass_012.ogg
+#WAV0D bass_013.ogg
+#WAV0E bass_014.ogg
+#WAV0F bass_015.ogg
+#WAV0G bass_016.ogg
+#WAV0H bass_017.ogg
+#WAV0I bass_018.ogg
+#WAV0J bass_019.ogg
+#WAV0K bass_020.ogg
+#WAV0L bass_021.ogg
+#WAV0M bass_022.ogg
+#WAV0N bass_023.ogg
+#WAV0O bass_024.ogg
+#WAV0P bass_025.ogg
+#WAV0Q bass_026.ogg
+#WAV0R bass_027.ogg
+#WAV0S bass_028.ogg
+#WAV0T bass_029.ogg
+#WAV0U bass_030.ogg
+#WAV0V bass_031.ogg
+#WAV0W bass_032.ogg
+#WAV0X bass_033.ogg
+#WAV0Y bass_034.ogg
+#WAV0Z bass_035.ogg
+#WAV10 bass_036.ogg
+#WAV11 bass_037.ogg
+#WAV12 bass_038.ogg
+#WAV13 bass_039.ogg
+#WAV14 bass_040.ogg
+#WAV15 bass_041.ogg
+#WAV16 bass_042.ogg
+#WAV17 bass_043.ogg
+#WAV18 bass_044.ogg
+#WAV19 bass_045.ogg
+#WAV1A bass_046.ogg
+#WAV1B bass_047.ogg
+#WAV1C bass_048.ogg
+#WAV1D bass_049.ogg
+#WAV1E bass_050.ogg
+#WAV1F bass_051.ogg
+#WAV1G bass_052.ogg
+#WAV1H china_l.ogg
+#WAV1I china_r.ogg
+#WAV1J drum_001.ogg
+#WAV1K drum_002.ogg
+#WAV1L drum_003.ogg
+#WAV1M drum_004.ogg
+#WAV1N drum_005.ogg
+#WAV1O drum_006.ogg
+#WAV1P drum_007.ogg
+#WAV1Q drum_008.ogg
+#WAV1R drum_009.ogg
+#WAV1S drum_010.ogg
+#WAV1T drum_011.ogg
+#WAV1U drum_012.ogg
+#WAV1V drum_013.ogg
+#WAV1W drum_014.ogg
+#WAV1X drum_015.ogg
+#WAV1Y drum_016.ogg
+#WAV1Z drum_017.ogg
+#WAV20 drum_018.ogg
+#WAV21 drum_019.ogg
+#WAV22 drum_020.ogg
+#WAV23 drum_021.ogg
+#WAV24 drum_022.ogg
+#WAV25 drum_023.ogg
+#WAV26 drum_024.ogg
+#WAV27 drum_025.ogg
+#WAV28 drum_026.ogg
+#WAV29 drum_027.ogg
+#WAV2A drum_028.ogg
+#WAV2B drum_029.ogg
+#WAV2C drum_030.ogg
+#WAV2D drum_031.ogg
+#WAV2E harps_a_001.ogg
+#WAV2F harps_a_002.ogg
+#WAV2G harps_a_003.ogg
+#WAV2H harps_a_004.ogg
+#WAV2I harps_a_005.ogg
+#WAV2J harps_a_006.ogg
+#WAV2K harps_a_007.ogg
+#WAV2L harps_a_008.ogg
+#WAV2M harps_a_009.ogg
+#WAV2N harps_a_010.ogg
+#WAV2O harps_a_011.ogg
+#WAV2P harps_b_001.ogg
+#WAV2Q harps_b_002.ogg
+#WAV2R harps_b_003.ogg
+#WAV2S harps_b_004.ogg
+#WAV2T harps_b_005.ogg
+#WAV2U harps_b_006.ogg
+#WAV2V harps_b_007.ogg
+#WAV2W harps_b_008.ogg
+#WAV2X harps_b_009.ogg
+#WAV2Y harps_b_010.ogg
+#WAV2Z harps_b_011.ogg
+#WAV30 harps_b_012.ogg
+#WAV31 harps_b_013.ogg
+#WAV32 harps_b_014.ogg
+#WAV33 harps_b_015.ogg
+#WAV34 harps_b_016.ogg
+#WAV35 harps_b_017.ogg
+#WAV36 harps_b_018.ogg
+#WAV37 harps_b_019.ogg
+#WAV38 harps_b_020.ogg
+#WAV39 harps_b_021.ogg
+#WAV3A harps_b_022.ogg
+#WAV3B harps_b_023.ogg
+#WAV3C harps_b_024.ogg
+#WAV3D harps_b_025.ogg
+#WAV3E harps_b_026.ogg
+#WAV3F harps_b_027.ogg
+#WAV3G harps_b_028.ogg
+#WAV3H harps_b_029.ogg
+#WAV3I harps_b_030.ogg
+#WAV3J harps_b_031.ogg
+#WAV3K harps_b_032.ogg
+#WAV3L harps_b_033.ogg
+#WAV3M harps_b_034.ogg
+#WAV3N harps_b_035.ogg
+#WAV3O hit_001.ogg
+#WAV3P hit_002.ogg
+#WAV3Q hit_003.ogg
+#WAV3R hit_004.ogg
+#WAV3S hit_005.ogg
+#WAV3T hit_006.ogg
+#WAV3U hit_007.ogg
+#WAV3V hit_008.ogg
+#WAV3W intro_001.ogg
+#WAV3X intro_002.ogg
+#WAV3Y intro_003.ogg
+#WAV3Z intro_004.ogg
+#WAV40 intro_005.ogg
+#WAV41 intro_006.ogg
+#WAV42 intro_007.ogg
+#WAV43 intro_008.ogg
+#WAV44 intro_009.ogg
+#WAV45 intro_010.ogg
+#WAV46 intro_011.ogg
+#WAV47 intro_012.ogg
+#WAV48 intro_013.ogg
+#WAV49 intro_014.ogg
+#WAV4A kira_a.ogg
+#WAV4B kira_b.ogg
+#WAV4C noize_001.ogg
+#WAV4D noize_002.ogg
+#WAV4E noize_003.ogg
+#WAV4F noize_004.ogg
+#WAV4G onchi_001.ogg
+#WAV4H onchi_002.ogg
+#WAV4I onchi_003.ogg
+#WAV4J onchi_004.ogg
+#WAV4K onchi_005.ogg
+#WAV4L onchi_006.ogg
+#WAV4M onchi_007.ogg
+#WAV4N onchi_008.ogg
+#WAV4O onchi_009.ogg
+#WAV4P onchi_010.ogg
+#WAV4Q onchi_011.ogg
+#WAV4R onchi_012.ogg
+#WAV4S onchi_013.ogg
+#WAV4T onchi_014.ogg
+#WAV4U onchi_015.ogg
+#WAV4V onchi_016.ogg
+#WAV4W onchi_017.ogg
+#WAV4X onchi_018.ogg
+#WAV4Y onchi_019.ogg
+#WAV4Z onchi_020.ogg
+#WAV50 onchi_021.ogg
+#WAV51 onchi_022.ogg
+#WAV52 onchi_023.ogg
+#WAV53 onchi_024.ogg
+#WAV54 onchi_025.ogg
+#WAV55 onchi_026.ogg
+#WAV56 onchi_027.ogg
+#WAV57 onchi_028.ogg
+#WAV58 organ_001.ogg
+#WAV59 organ_002.ogg
+#WAV5A organ_003.ogg
+#WAV5B organ_004.ogg
+#WAV5C organ_005.ogg
+#WAV5D organ_006.ogg
+#WAV5E organ_007.ogg
+#WAV5F organ_008.ogg
+#WAV5G organ_009.ogg
+#WAV5H organ_010.ogg
+#WAV5I organ_011.ogg
+#WAV5J organ_012.ogg
+#WAV5K organ_013.ogg
+#WAV5L organ_014.ogg
+#WAV5M organ_015.ogg
+#WAV5N organ_016.ogg
+#WAV5O organ_017.ogg
+#WAV5P organ_018.ogg
+#WAV5Q organ_019.ogg
+#WAV5R organ_020.ogg
+#WAV5S organ_021.ogg
+#WAV5T organ_022.ogg
+#WAV5U organ_023.ogg
+#WAV5V organ_024.ogg
+#WAV5W organ_025.ogg
+#WAV5X organ_026.ogg
+#WAV5Y organ_027.ogg
+#WAV5Z organ_028.ogg
+#WAV60 organ_029.ogg
+#WAV61 organ_030.ogg
+#WAV62 organ_031.ogg
+#WAV63 organ_032.ogg
+#WAV64 organ_033.ogg
+#WAV65 organ_034.ogg
+#WAV66 piano_a_001.ogg
+#WAV67 piano_a_002.ogg
+#WAV68 piano_a_003.ogg
+#WAV69 piano_a_004.ogg
+#WAV6A piano_a_005.ogg
+#WAV6B piano_a_006.ogg
+#WAV6C piano_a_007.ogg
+#WAV6D piano_a_008.ogg
+#WAV6E piano_a_009.ogg
+#WAV6F piano_a_010.ogg
+#WAV6G piano_a_011.ogg
+#WAV6H piano_a_012.ogg
+#WAV6I piano_a_013.ogg
+#WAV6J piano_a_014.ogg
+#WAV6K piano_a_015.ogg
+#WAV6L piano_a_016.ogg
+#WAV6M piano_a_017.ogg
+#WAV6N piano_a_018.ogg
+#WAV6O piano_a_019.ogg
+#WAV6P piano_a_020.ogg
+#WAV6Q piano_a_021.ogg
+#WAV6R piano_a_022.ogg
+#WAV6S piano_a_023.ogg
+#WAV6T piano_a_024.ogg
+#WAV6U piano_a_025.ogg
+#WAV6V piano_a_026.ogg
+#WAV6W piano_a_027.ogg
+#WAV6X piano_a_028.ogg
+#WAV6Y piano_a_029.ogg
+#WAV6Z piano_a_030.ogg
+#WAV70 piano_a_031.ogg
+#WAV71 piano_a_032.ogg
+#WAV72 piano_a_033.ogg
+#WAV73 piano_a_034.ogg
+#WAV74 piano_a_035.ogg
+#WAV75 piano_a_036.ogg
+#WAV76 piano_a_037.ogg
+#WAV77 piano_a_038.ogg
+#WAV78 piano_a_039.ogg
+#WAV79 piano_a_040.ogg
+#WAV7A piano_a_041.ogg
+#WAV7B piano_a_042.ogg
+#WAV7C piano_a_043.ogg
+#WAV7D piano_a_044.ogg
+#WAV7E piano_a_045.ogg
+#WAV7F piano_a_046.ogg
+#WAV7G piano_a_047.ogg
+#WAV7H piano_a_048.ogg
+#WAV7I piano_a_049.ogg
+#WAV7J piano_b_001.ogg
+#WAV7K piano_b_002.ogg
+#WAV7L piano_b_003.ogg
+#WAV7M piano_b_004.ogg
+#WAV7N piano_b_005.ogg
+#WAV7O piano_b_006.ogg
+#WAV7P piano_b_007.ogg
+#WAV7Q piano_b_008.ogg
+#WAV7R piano_b_009.ogg
+#WAV7S piano_b_010.ogg
+#WAV7T piano_b_011.ogg
+#WAV7U piano_b_012.ogg
+#WAV7V piano_b_013.ogg
+#WAV7W piano_b_014.ogg
+#WAV7X piano_b_015.ogg
+#WAV7Y piano_b_016.ogg
+#WAV7Z piano_b_017.ogg
+#WAV80 piano_b_018.ogg
+#WAV81 piano_b_019.ogg
+#WAV82 piano_b_020.ogg
+#WAV83 piano_b_021.ogg
+#WAV84 piano_b_022.ogg
+#WAV85 piano_b_023.ogg
+#WAV86 piano_b_024.ogg
+#WAV87 piano_b_025.ogg
+#WAV88 piano_b_026.ogg
+#WAV89 piano_b_027.ogg
+#WAV8A piano_b_028.ogg
+#WAV8B piano_b_029.ogg
+#WAV8C piano_b_030.ogg
+#WAV8D piano_b_031.ogg
+#WAV8E piano_b_032.ogg
+#WAV8F piano_b_033.ogg
+#WAV8G picco_001.ogg
+#WAV8H picco_002.ogg
+#WAV8I picco_003.ogg
+#WAV8J picco_004.ogg
+#WAV8K picco_005.ogg
+#WAV8L picco_006.ogg
+#WAV8M picco_007.ogg
+#WAV8N picco_008.ogg
+#WAV8O picco_009.ogg
+#WAV8P picco_010.ogg
+#WAV8Q picco_011.ogg
+#WAV8R picco_012.ogg
+#WAV8S picco_013.ogg
+#WAV8T picco_014.ogg
+#WAV8U picco_015.ogg
+#WAV8V picco_016.ogg
+#WAV8W picco_017.ogg
+#WAV8X picco_018.ogg
+#WAV8Y picco_019.ogg
+#WAV8Z picco_020.ogg
+#WAV90 picco_021.ogg
+#WAV91 picco_022.ogg
+#WAV92 picco_023.ogg
+#WAV93 picco_024.ogg
+#WAV94 picco_025.ogg
+#WAV95 picco_026.ogg
+#WAV96 picco_027.ogg
+#WAV97 picco_028.ogg
+#WAV98 picco_029.ogg
+#WAV99 picco_030.ogg
+#WAV9A piko_001.ogg
+#WAV9B piko_002.ogg
+#WAV9C piko_003.ogg
+#WAV9D piko_004.ogg
+#WAV9E piko_005.ogg
+#WAV9F piko_006.ogg
+#WAV9G piko_007.ogg
+#WAV9H piko_008.ogg
+#WAV9I piko_009.ogg
+#WAV9J piko_010.ogg
+#WAV9K piko_011.ogg
+#WAV9L piko_012.ogg
+#WAV9M piko_013.ogg
+#WAV9N piko_014.ogg
+#WAV9O piko_015.ogg
+#WAV9P piko_016.ogg
+#WAV9Q piko_017.ogg
+#WAV9R piko_018.ogg
+#WAV9S piko_019.ogg
+#WAV9T piko_020.ogg
+#WAV9U piko_021.ogg
+#WAV9V piko_022.ogg
+#WAV9W piko_023.ogg
+#WAV9X pon_001.ogg
+#WAV9Y pon_002.ogg
+#WAV9Z pon_003.ogg
+#WAVA0 pon_004.ogg
+#WAVA1 pon_005.ogg
+#WAVA2 pon_006.ogg
+#WAVA3 pon_007.ogg
+#WAVA4 pon_008.ogg
+#WAVA5 pon_009.ogg
+#WAVA6 pon_010.ogg
+#WAVA7 pon_011.ogg
+#WAVA8 pon_012.ogg
+#WAVA9 pue.ogg
+#WAVAA sbass_001.ogg
+#WAVAB sbass_002.ogg
+#WAVAC sbass_003.ogg
+#WAVAD sbass_004.ogg
+#WAVAE sbass_005.ogg
+#WAVAF shaku_001.ogg
+#WAVAG shaku_002.ogg
+#WAVAH shaku_003.ogg
+#WAVAI shaku_004.ogg
+#WAVAJ shaku_005.ogg
+#WAVAK shaku_006.ogg
+#WAVAL shami_a_001.ogg
+#WAVAM shami_a_002.ogg
+#WAVAN shami_a_003.ogg
+#WAVAO shami_a_004.ogg
+#WAVAP shami_a_005.ogg
+#WAVAQ shami_a_006.ogg
+#WAVAR shami_a_007.ogg
+#WAVAS shami_a_008.ogg
+#WAVAT shami_a_009.ogg
+#WAVAU shami_a_010.ogg
+#WAVAV shami_a_011.ogg
+#WAVAW shami_a_012.ogg
+#WAVAX shami_a_013.ogg
+#WAVAY shami_a_014.ogg
+#WAVAZ shami_a_015.ogg
+#WAVB0 shami_a_016.ogg
+#WAVB1 shami_a_017.ogg
+#WAVB2 shami_a_018.ogg
+#WAVB3 shami_a_019.ogg
+#WAVB4 shami_a_020.ogg
+#WAVB5 shami_a_021.ogg
+#WAVB6 shami_a_022.ogg
+#WAVB7 shami_a_023.ogg
+#WAVB8 shami_a_024.ogg
+#WAVB9 shami_a_025.ogg
+#WAVBA shami_a_026.ogg
+#WAVBB shami_a_027.ogg
+#WAVBC shami_a_028.ogg
+#WAVBD shami_a_029.ogg
+#WAVBE shami_a_030.ogg
+#WAVBF shami_a_031.ogg
+#WAVBG shami_a_032.ogg
+#WAVBH shami_a_033.ogg
+#WAVBI shami_a_034.ogg
+#WAVBJ shami_a_035.ogg
+#WAVBK shami_a_036.ogg
+#WAVBL shami_a_037.ogg
+#WAVBM shami_a_038.ogg
+#WAVBN shami_a_039.ogg
+#WAVBO shami_a_040.ogg
+#WAVBP shami_a_041.ogg
+#WAVBQ shami_a_042.ogg
+#WAVBR shami_a_043.ogg
+#WAVBS shami_a_044.ogg
+#WAVBT shami_a_045.ogg
+#WAVBU shami_a_046.ogg
+#WAVBV shami_a_047.ogg
+#WAVBW shami_a_048.ogg
+#WAVBX shami_a_049.ogg
+#WAVBY shami_a_050.ogg
+#WAVBZ shami_a_051.ogg
+#WAVC0 shami_a_052.ogg
+#WAVC1 shami_a_053.ogg
+#WAVC2 shami_a_054.ogg
+#WAVC3 shami_a_055.ogg
+#WAVC4 shami_b_001.ogg
+#WAVC5 shami_b_002.ogg
+#WAVC6 shami_b_003.ogg
+#WAVC7 shami_b_004.ogg
+#WAVC8 shami_b_005.ogg
+#WAVC9 shami_b_006.ogg
+#WAVCA shami_b_007.ogg
+#WAVCB shami_b_008.ogg
+#WAVCC shami_b_009.ogg
+#WAVCD shami_b_010.ogg
+#WAVCE shami_b_011.ogg
+#WAVCF shami_b_012.ogg
+#WAVCG shami_b_013.ogg
+#WAVCH shami_b_014.ogg
+#WAVCI shami_b_015.ogg
+#WAVCJ synth_001.ogg
+#WAVCK synth_002.ogg
+#WAVCL synth_003.ogg
+#WAVCM synth_004.ogg
+#WAVCN synth_005.ogg
+#WAVCO synth_006.ogg
+#WAVCP synth_007.ogg
+#WAVCQ synth_008.ogg
+#WAVCR synth_009.ogg
+#WAVCS synth_010.ogg
+#WAVCT synth_011.ogg
+#WAVCU synth_012.ogg
+#WAVCV synth_013.ogg
+#WAVCW synth_014.ogg
+#WAVCX synth_015.ogg
+#WAVCY synth_016.ogg
+#WAVCZ synth_017.ogg
+#WAVD0 synth_018.ogg
+#WAVD1 synth_019.ogg
+#WAVD2 synth_020.ogg
+#WAVD3 synth_021.ogg
+#WAVD4 synth_022.ogg
+#WAVD5 synth_023.ogg
+#WAVD6 synth_024.ogg
+#WAVD7 synth_025.ogg
+#WAVD8 synth_026.ogg
+#WAVD9 synth_027.ogg
+#WAVDA synth_028.ogg
+#WAVDB synth_029.ogg
+#WAVDC synth_030.ogg
+#WAVDD synth_031.ogg
+#WAVDE synth_032.ogg
+#WAVDF synth_033.ogg
+#WAVDG synth_034.ogg
+#WAVDH synth_035.ogg
+#WAVDI synth_036.ogg
+#WAVDJ synth_037.ogg
+#WAVDK synth_038.ogg
+#WAVDL synth_039.ogg
+#WAVDM synth_040.ogg
+#WAVDN synth_041.ogg
+#WAVDO synth_042.ogg
+#WAVDP synth_043.ogg
+#WAVDQ synth_044.ogg
+#WAVDR synth_045.ogg
+#WAVDS synth_046.ogg
+#WAVDT synth_047.ogg
+#WAVDU synth_048.ogg
+#WAVDV synth_049.ogg
+#WAVDW synth_050.ogg
+#WAVDX synth_051.ogg
+#WAVDY synth_052.ogg
+#WAVDZ synth_053.ogg
+#WAVE0 synth_054.ogg
+#WAVE1 synth_055.ogg
+#WAVE2 synth_056.ogg
+#WAVE3 synth_057.ogg
+#WAVE4 synth_058.ogg
+#WAVE5 synth_059.ogg
+#WAVE6 synth_060.ogg
+#WAVE7 synth_061.ogg
+#WAVE8 synth_062.ogg
+#WAVE9 synth_063.ogg
+#WAVEA synth_064.ogg
+#WAVEB synth_065.ogg
+#WAVEC synth_066.ogg
+#WAVED synth_067.ogg
+#WAVEE synth_068.ogg
+#WAVEF synth_069.ogg
+#WAVEG synth_070.ogg
+#WAVEH synth_071.ogg
+#WAVEI synth_072.ogg
+#WAVEJ synth_073.ogg
+#WAVEK synth_074.ogg
+#WAVEL synth_075.ogg
+#WAVEM synth_076.ogg
+#WAVEN synth_077.ogg
+#WAVEO synth_078.ogg
+#WAVEP synth_079.ogg
+#WAVEQ synth_080.ogg
+#WAVER synth_081.ogg
+#WAVES synth_082.ogg
+#WAVET synth_083.ogg
+#WAVEU synth_084.ogg
+#WAVEV synth_085.ogg
+#WAVEW synth_086.ogg
+#WAVEX synth_087.ogg
+#WAVEY synth_088.ogg
+#WAVEZ synth_089.ogg
+#WAVF0 synth_090.ogg
+#WAVF1 synth_091.ogg
+#WAVF2 synth_092.ogg
+#WAVF3 synth_093.ogg
+#WAVF4 synth_094.ogg
+#WAVF5 synth_095.ogg
+#WAVF6 synth_096.ogg
+#WAVF7 synth_097.ogg
+#WAVF8 synth_098.ogg
+#WAVF9 synth_099.ogg
+#WAVFA synth_100.ogg
+#WAVFB synth_101.ogg
+#WAVFC synth_102.ogg
+#WAVFD synth_103.ogg
+#WAVFE synth_104.ogg
+#WAVFF synth_105.ogg
+#WAVFG synth_106.ogg
+#WAVFH synth_107.ogg
+#WAVFI synth_108.ogg
+#WAVFJ synth_109.ogg
+#WAVFK synth_110.ogg
+#WAVFL synth_111.ogg
+#WAVFM synth_112.ogg
+#WAVFN synth_113.ogg
+#WAVFO synth_114.ogg
+#WAVFP synth_115.ogg
+#WAVFQ synth_116.ogg
+#WAVFR synth_117.ogg
+#WAVFS synth_118.ogg
+#WAVFT synth_119.ogg
+#WAVFU synth_120.ogg
+#WAVFV synth_121.ogg
+#WAVFW synth_122.ogg
+#WAVFX synth_123.ogg
+#WAVFY synth_124.ogg
+#WAVFZ synth_125.ogg
+#WAVG0 synth_126.ogg
+#WAVG1 synth_127.ogg
+#WAVG2 synth_128.ogg
+#WAVG3 synth_129.ogg
+#WAVG4 synth_130.ogg
+#WAVG5 synth_131.ogg
+#WAVG6 synth_132.ogg
+#WAVG7 synth_133.ogg
+#WAVG8 synth_134.ogg
+#WAVG9 xylo_001.ogg
+#WAVGA xylo_002.ogg
+#WAVGB xylo_003.ogg
+#WAVGC xylo_004.ogg
+#WAVGD kya_001.ogg
+#WAVGE kya_002.ogg
+#WAVGF kya_003.ogg
+#WAVGG kya_004.ogg
+#WAVGH se_001.ogg
+#WAVGI se_002.ogg
+#WAVGJ se_003.ogg
+#WAVGK se_004.ogg
+#WAVGL se_005.ogg
+#WAVGM se_006.ogg
+#WAVGN se_007.ogg
+#WAVGO se_008.ogg
+#WAVGU bass_045.ogg
+#WAVGV bass_046.ogg
+#WAVGW bass_029.ogg
+#WAVGX bass_024.ogg
+#WAVGY bass_022.ogg
+#WAVGZ bass_017.ogg
+#WAVH0 synth_001.ogg
+#WAVH1 synth_003.ogg
+#WAVH2 synth_005.ogg
+#WAVH3 synth_007.ogg
+#WAVH4 synth_009.ogg
+#WAVH5 synth_011.ogg
+#WAVH6 synth_013.ogg
+#WAVH7 synth_015.ogg
+#WAVH8 synth_017.ogg
+#WAVH9 synth_019.ogg
+#WAVHA synth_021.ogg
+#WAVHB synth_023.ogg
+#WAVHC synth_025.ogg
+#WAVHD synth_027.ogg
+#WAVHE synth_029.ogg
+#WAVHF synth_031.ogg
+#WAVHG synth_033.ogg
+#WAVHH synth_034.ogg
+#WAVHI synth_035.ogg
+#WAVHJ synth_037.ogg
+#WAVHK synth_039.ogg
+#WAVHL synth_041.ogg
+#WAVHM synth_043.ogg
+#WAVHN synth_045.ogg
+#WAVHO synth_047.ogg
+#WAVHP synth_049.ogg
+#WAVHQ synth_051.ogg
+#WAVHR synth_053.ogg
+#WAVHS synth_055.ogg
+#WAVHT synth_057.ogg
+#WAVHU synth_059.ogg
+#WAVHV synth_061.ogg
+#WAVHW synth_063.ogg
+#WAVHX synth_065.ogg
+#WAVHY synth_067.ogg
+#WAVHZ synth_069.ogg
+#WAVI0 synth_071.ogg
+#WAVI1 synth_073.ogg
+#WAVI2 synth_075.ogg
+#WAVI3 synth_076.ogg
+#WAVI4 synth_077.ogg
+#WAVI5 synth_107.ogg
+#WAVI6 synth_109.ogg
+#WAVI7 synth_111.ogg
+#WAVI8 synth_113.ogg
+#WAVI9 synth_115.ogg
+#WAVIA synth_117.ogg
+#WAVIB synth_119.ogg
+#WAVIC synth_121.ogg
+#WAVID synth_123.ogg
+#WAVIE synth_125.ogg
+#WAVIF synth_127.ogg
+#WAVIG synth_129.ogg
+#WAVIH synth_131.ogg
+#WAVII noize_001.ogg
+#WAVIJ noize_004.ogg
+#WAVIK drum_001.ogg
+#WAVIL drum_001.ogg
+#WAVIM drum_006.ogg
+#WAVIN drum_002.ogg
+#WAVIO drum_002.ogg
+#WAVIP drum_003.ogg
+#WAVIQ drum_004.ogg
+#WAVIR drum_005.ogg
+#WAVIS drum_009.ogg
+#WAVIT drum_010.ogg
+#WAVIU china_l.ogg
+#WAVIV china_r.ogg
+#WAVIW hit_001.ogg
+#WAVIX hit_001.ogg
+#WAVIY hit_001.ogg
+#WAVIZ hit_002.ogg
+#WAVJ0 hit_002.ogg
+#WAVJ1 hit_002.ogg
+#WAVJ2 hit_003.ogg
+#WAVJ3 hit_003.ogg
+#WAVJ4 hit_003.ogg
+#WAVJ5 hit_004.ogg
+#WAVJ6 hit_004.ogg
+#WAVJ7 hit_005.ogg
+#WAVJ8 hit_005.ogg
+#WAVJ9 hit_005.ogg
+#WAVJA hit_006.ogg
+#WAVJB hit_006.ogg
+#WAVJC hit_007.ogg
+#WAVJD hit_007.ogg
+#WAVJE hit_007.ogg
+#WAVJF intro_001.ogg
+#WAVJG intro_001.ogg
+#WAVJH intro_002.ogg
+#WAVJI intro_005.ogg
+#WAVJJ intro_005.ogg
+#WAVJK intro_006.ogg
+#WAVJL intro_008.ogg
+#WAVJM intro_010.ogg
+#WAVJN pon_001.ogg
+#WAVJO pon_001.ogg
+#WAVJP pon_011.ogg
+#WAVJQ pon_011.ogg
+#WAVJR pon_011.ogg
+#WAVJS drum_011.ogg
+#WAVJT drum_012.ogg
+#WAVJU drum_013.ogg
+#WAVJV drum_014.ogg
+#WAVJW drum_015.ogg
+#WAVJX drum_016.ogg
+#WAVJY drum_017.ogg
+#WAVJZ drum_018.ogg
+#WAVK0 drum_019.ogg
+#WAVK1 drum_020.ogg
+#WAVK2 drum_021.ogg
+#WAVK3 drum_022.ogg
+#WAVK4 drum_023.ogg
+#WAVK5 drum_024.ogg
+#WAVK6 drum_025.ogg
+#WAVK7 drum_026.ogg
+#WAVK8 drum_027.ogg
+#WAVK9 drum_028.ogg
+#WAVKA drum_029.ogg
+#WAVKB piano_b_001.ogg
+#WAVKC piano_b_001.ogg
+#WAVKD piano_b_003.ogg
+#WAVKE piano_b_003.ogg
+#WAVKF piano_b_016.ogg
+#WAVKG piano_b_017.ogg
+#WAVKH piano_b_018.ogg
+#WAVKI piano_b_019.ogg
+#WAVKJ piano_b_020.ogg
+#WAVKK piano_b_026.ogg
+#WAVKL piano_a_011.ogg
+#WAVKM piano_a_012.ogg
+#WAVKN piano_a_014.ogg
+#WAVKO piano_a_016.ogg
+#WAVKP piano_a_018.ogg
+#WAVKQ piano_a_018.ogg
+#WAVKR piano_a_021.ogg
+#WAVKS piano_a_013.ogg
+#WAVKT piano_a_030.ogg
+#WAVKU piano_a_020.ogg
+#WAVKV piano_a_015.ogg
+#WAVKW piano_a_017.ogg
+#WAVKX piano_a_019.ogg
+#WAVKY piano_a_019.ogg
+#WAVKZ piano_a_031.ogg
+#WAVL0 piano_a_012.ogg
+#WAVL1 piano_a_011.ogg
+#WAVL2 piano_a_024.ogg
+#WAVL3 piano_a_026.ogg
+#WAVL4 piano_a_029.ogg
+#WAVL5 piano_a_032.ogg
+#WAVL6 piano_a_023.ogg
+#WAVL7 piano_a_022.ogg
+#WAVL8 piano_a_010.ogg
+#WAVL9 piano_a_006.ogg
+#WAVLA harps_a_003.ogg
+#WAVLB harps_a_005.ogg
+#WAVLC harps_a_001.ogg
+#WAVLD harps_a_002.ogg
+#WAVLE piko_016.ogg
+#WAVLF piko_017.ogg
+#WAVLG piko_018.ogg
+#WAVLH piko_019.ogg
+#WAVLI piko_020.ogg
+#WAVLJ piko_021.ogg
+#WAVLK piko_022.ogg
+#WAVLL piko_023.ogg
+#WAVLM xylo_001.ogg
+#WAVLN xylo_002.ogg
+#WAVLO xylo_003.ogg
+#WAVLP xylo_003.ogg
+#WAVLQ xylo_004.ogg
+#WAVLR xylo_001.ogg
+#WAVLS onchi_002.ogg
+#WAVLT onchi_008.ogg
+#WAVLU onchi_012.ogg
+#WAVLV onchi_017.ogg
+#WAVLW onchi_018.ogg
+#WAVLX onchi_019.ogg
+#WAVLY onchi_020.ogg
+#WAVLZ onchi_025.ogg
+#WAVM0 onchi_017.ogg
+#WAVM1 onchi_018.ogg
+#WAVM2 onchi_019.ogg
+#WAVM3 onchi_020.ogg
+#WAVM4 shami_a_001.ogg
+#WAVM5 shami_a_001.ogg
+#WAVM6 shami_a_001.ogg
+#WAVM7 shami_a_002.ogg
+#WAVM8 shami_a_002.ogg
+#WAVM9 shami_a_002.ogg
+#WAVMA shami_a_004.ogg
+#WAVMB shami_a_004.ogg
+#WAVMC shami_a_013.ogg
+#WAVMD shami_a_013.ogg
+#WAVME shami_a_016.ogg
+#WAVMF shami_a_016.ogg
+#WAVMG shami_a_016.ogg
+#WAVMH shami_a_003.ogg
+#WAVMI shami_a_019.ogg
+#WAVMJ shami_a_019.ogg
+#WAVMK shami_a_020.ogg
+#WAVML shami_a_020.ogg
+#WAVMM shami_a_020.ogg
+#WAVMN shami_a_021.ogg
+#WAVMO shami_a_004.ogg
+#WAVMP shami_a_035.ogg
+#WAVMQ shami_a_035.ogg
+#WAVMR shami_a_035.ogg
+#WAVMS shami_a_033.ogg
+#WAVMT shami_a_035.ogg
+#WAVMU shami_a_030.ogg
+#WAVMV shami_a_023.ogg
+#WAVMW shami_a_023.ogg
+#WAVMX shami_a_025.ogg
+#WAVMY shami_a_025.ogg
+#WAVMZ shami_a_027.ogg
+#WAVN0 shami_a_027.ogg
+#WAVN1 shami_a_029.ogg
+#WAVN2 shami_a_029.ogg
+#WAVN3 shami_a_032.ogg
+#WAVN4 shami_a_032.ogg
+#WAVN5 shami_a_032.ogg
+#WAVN6 shami_a_037.ogg
+#WAVN7 shami_a_031.ogg
+#WAVN8 shami_a_031.ogg
+#WAVN9 shami_a_031.ogg
+#WAVNA shami_a_024.ogg
+#WAVNB shami_a_024.ogg
+#WAVNC shami_a_026.ogg
+#WAVND shami_a_026.ogg
+#WAVNE shami_a_028.ogg
+#WAVNF shami_a_028.ogg
+#WAVNG shami_a_030.ogg
+#WAVNH shami_a_030.ogg
+#WAVNI shami_a_033.ogg
+#WAVNJ shami_a_033.ogg
+#WAVNK shami_a_033.ogg
+#WAVNL shami_a_038.ogg
+#WAVNM shami_a_034.ogg
+#WAVNN kya_001.ogg
+#WAVNO kya_002.ogg
+#WAVNP kya_003.ogg
+#WAVNQ kya_004.ogg
+#WAVNR shami_b_001.ogg
+#WAVNS shami_b_001.ogg
+#WAVNT shami_b_001.ogg
+#WAVNU shami_b_002.ogg
+#WAVNV shami_b_002.ogg
+#WAVNW shami_b_002.ogg
+#WAVNX shami_b_003.ogg
+#WAVNY shami_b_001.ogg
+#WAVNZ shami_a_051.ogg
+#WAVO0 shami_a_051.ogg
+#WAVO1 shami_a_051.ogg
+#WAVO2 shami_a_052.ogg
+#WAVO3 shami_a_052.ogg
+#WAVO4 shami_a_052.ogg
+#WAVO5 shami_a_053.ogg
+#WAVO6 shami_a_051.ogg
+
+#BMP00 miss.bmp
+#BMP01 bga.bmp
+
+
+
+
+#COMMENT "ショウブダ！"
+#BANNER banner.bmp
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:ADAEAB00
+#00001:0000004E
+#00001:4C0000II0000004C0000II0000000000
+#00001:004D004D00004900
+#00001:000000004E0000004FIJ000000000000
+#00001:JL
+#00001:00440000470000000000000000000000
+#00001:00000000004800000000000000000000
+#00001:0045000000000000
+#00001:00000046000000000000000000000000
+#00001:0000000000JL0000
+#00001:00
+#00001:00
+#00001:00JM
+#00001:00
+#00001:00
+#00001:0000003X00000000
+#00001:000000000000003W0000000000000000
+#00004:01
+#00016:000000AB
+#00026:000000GH
+
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:1M001N00IQ00IR001M00IRIQ001M1N00
+#00114:19GU1900GU19GU0019GU19GU0019GU19
+#00115:CJH0CK00CJH0CK00CJH0CJCK00CJH0CJ
+#00118:1KINIO001KINIO001KINIO1K00IOIN1K
+#00119:7JKB7K007JKB7K007JKBKC7K007JKB7J
+#00121:3OIWIX003OIWIX003OIWIXIY003OIWIX
+#00122:IKIL1J00IKIL1J00IKIL1JIK00IL1JIK
+#00123:1OIM1P001OIM1P001OIM1Q1O001O1QIM
+#00124:1LIP1L001LIP1L001LIP1LIP00IP1LIP
+
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:IQ00IR001M001N00IQ00IR1M00IQIR00
+#00211:1AGV1A00GV1AGV001AGV1AGV001AGV1A
+#00212:INIO1K00IO1KIN00IO1KINIO001KINIO
+#00213:3PIZJ0003PIZJ0003PIZJ0J1003PIZJ0
+#00214:CLH1CM00CLH1CM00CLH1CLCM00CLH1CL
+#00224:ILIK1J00IKIL1J00IKIL1JIK00IL1JIK
+#00225:7LKD7M007LKD7M007LKDKE7M00KDKE7L
+#00228:1OIM1P001OIM1P001OIM1Q1O001O1QIM
+#00229:1LIP1L001LIP1L001LIP1LIP001LIP1L
+
+#00301:08080808
+#00301:000P00GJ000P000P
+#00301:G5IHG600G5IHG600G5IHG600G5IHG600
+#00301:00
+#00301:1JIKIL1JIKIL1JIKIL1JIKIL1JIKIL1J
+#00301:1OIM1P001OIM1P001OIM1P001OIM1Q00
+#00301:00001KIN0000IO0000001KIN0000IO00
+#00301:00001LIP00001L0000001LIP00001L00
+#00301:C2
+#00301:00
+#00301:1W1X1Y1Z202100000000000000000000
+#00301:00
+#00301:00
+#00301:00009X9Y9Z00A0A1A2A3A400A500A600
+#00301:00
+#00301:00
+#00301:5P5P
+#00301:0058005800580058
+#00301:005A005A
+#00301:005I000000000000005I000000000000
+#00301:00000059000000590000005900000059
+#00301:00000000005B000000000000005B0000
+#00301:00
+#00301:000000IR
+#00301:001N0000
+#00301:00
+#00301:1M
+#00301:00IQ
+#00301:00
+#00301:00
+#00301:GM
+#00316:00000000000022232425262728292A2B
+#00359:000000OC00000000
+#00361:000000OC00000000
+
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:IK
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:0000000000GO0000
+#00401:000000GK00000000
+#00411:008F0000
+#00412:00GN0000
+#00413:001J0000
+#00414:00C30000
+#00415:00100000
+#00418:004B0000
+#00419:003V0000
+#00426:001M0000
+#00459:OC
+#00461:OC
+
